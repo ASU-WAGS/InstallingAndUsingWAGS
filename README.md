@@ -9,7 +9,7 @@
  * Restart Eclipse
  * You should see a blue circle with a white 'g' on the top bar
  
-![Alt text](/googleg.png?raw=true "Optional Title")
+![Alt text](/googleg.png?raw=true "The G")
 
 ## Setting up project
  * In Eclipse click File > Import > Git > Projects from Git
