@@ -43,6 +43,7 @@ Linking into /home/scott/git/Wags_Client/war/we
 ## Uploading Files
  * Compiled files go to the Wags_CLient/war/we directory
  * Open up a FTP client (FileZilla, WinSCP, terminal, etc)
+  - If you're using the terminal you can skip the rest and use this script: https://github.com/ASU-WAGS/CommandLineUploader
  * Login to the CS machine
  * Navigate to /usr/local/apache2/htdocs/cs/wags/--yourdir--/we
  * Delete everything in this we folder 
