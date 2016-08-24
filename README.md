@@ -1,4 +1,4 @@
-# How to Install WAGS using Eclipse
+# How to Install and use WAGS with Eclipse
 
 ## Initial setup
  * Download Eclipse
