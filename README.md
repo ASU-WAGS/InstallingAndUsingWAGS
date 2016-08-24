@@ -3,6 +3,8 @@
 ## Initial setup
  * Download Eclipse
  * Make sure your java install is up to date (1.7+)
+    - If you need to update http://www.oracle.com/technetwork/java/javase/downloads/index.html
+    - Linux users may need to use OpenJDK
  * Go to https://developers.google.com/eclipse/docs/getting_started and follow the guide using your version of Eclipse
  * Restart Eclipse
  * You should see a blue circle with a white 'g' on the top bar
