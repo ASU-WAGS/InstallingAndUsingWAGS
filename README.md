@@ -39,3 +39,12 @@ Linking into /home/scott/git/Wags_Client/war/we
    Link succeeded
    Linking succeeded -- 0.443s
 ```
+
+## Uploading Files
+ * Compiled files go to the Wags_CLient/war/we directory
+ * Open up a FTP client (FileZilla, WinSCP, terminal, etc)
+ * Login to the CS machine
+ * Navigate to /usr/local/apache2/htdocs/cs/wags/--yourdir--/we
+ * Delete everything in this we folder 
+ * Upload the contents of your local we folder to this location
+ * If everything worked you should see your changes upon refresh
