@@ -13,7 +13,7 @@
  * Click Clone URI
  * Click Next
  * Go to https://github.com/ASU-WAGS/Wags_Client
- * Click Clone or Download and copy the https link
+ * Click Clone or Download and copy the https link (green button)
  * Enter the link into the URI text field
  * Enter your Gitgub username and password at the bottom
  * Click next until you can click finish
