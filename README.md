@@ -22,7 +22,7 @@
  * Enter your Gitgub username and password at the bottom
  * Click next until you can click finish
  * Right click the project and click Google > gwt Compile
- * A popup will appear, click COmpile again
+ * A popup will appear, click Compile again
  * The Console should appear in Eclipse on the bottom if this finishes with no errors as shown below you've set up WAGS correctly
  
 ```
